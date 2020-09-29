@@ -1,3 +1,5 @@
+// Lesson2-1
+
 // var 変数名 = 内容 ;
 var str1 = 'Hello';
 var str2 = 'World!!';
