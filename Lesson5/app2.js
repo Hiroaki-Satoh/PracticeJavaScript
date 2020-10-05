@@ -1,4 +1,5 @@
 // Lesson5-2
 $(function(){
-  $('.box1').slideUp();
+  $('.box1').show();
+  $('.box1').css({'background-color': '#0000FF'});
 });
