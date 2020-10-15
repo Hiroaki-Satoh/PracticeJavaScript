@@ -1,4 +1,4 @@
-## JavaScript 学習の記録
+# JavaScript 学習の記録
 
 ## 学習環境
 * Ruby 2.5.7
